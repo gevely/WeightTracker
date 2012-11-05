@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Weight Tracker</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_section2">Section 2</string>
+    <string name="admin_title">Admin</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">People</string>
+    <string name="btn_add_person">Add Person</string>
+    <string name="btn_delete_person">Delete Person</string>
+    <string name="lbl_first_name">Enter name: </string>
+    <string name="title_activity_person_details">PersonDetailsActivity</string>
+    <string name="lblWeightEntry">Enter Weight (kg): </string>
+    <string name="lblSubmit">Submit</string>
+    
+</resources>
